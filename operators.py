@@ -25,3 +25,10 @@ y = False
 print(x and y) #logical AND
 print(x or y)  #logical OR  
 print(not x)    #logical NOT
+
+#assignment Operators Module
+c = 10
+c += 5
+print("c after += 5:", c)
+c -= 3
+print("c after -= 3:", c)
